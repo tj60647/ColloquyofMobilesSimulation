@@ -1,0 +1,22 @@
+{
+  "name": "13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "canvas-sketch src/index.js --hot",
+    "build": "canvas-sketch src/index.js --build --inline"
+  },
+  "dependencies": {
+    "canvas-sketch": "0.7.4",
+    "canvas-sketch-cli": "1.11.14",
+    "canvas-sketch-util": "1.10.0",
+    "dat.gui": "0.7.9",
+    "stats-js": "1.0.1",
+    "three": "0.133.1"
+  },
+  "devDependencies": {
+    "@types/three": "0.93.13"
+  },
+  "keywords": []
+}
