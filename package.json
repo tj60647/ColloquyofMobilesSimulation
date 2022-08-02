@@ -1,5 +1,5 @@
 {
-  "name": "13",
+  "name": "colloquy-of-mobiles-asset-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -8,12 +8,10 @@
     "build": "canvas-sketch src/index.js --build --inline"
   },
   "dependencies": {
-    "canvas-sketch": "0.7.4",
-    "canvas-sketch-cli": "1.11.14",
-    "canvas-sketch-util": "1.10.0",
+    "canvas-sketch": "0.7.5",
     "dat.gui": "0.7.9",
     "stats-js": "1.0.1",
-    "three": "0.133.1"
+    "three": "0.143.0"
   },
   "devDependencies": {
     "@types/three": "0.93.13"
